@@ -1,0 +1,260 @@
+[
+  {
+    "id": "I01",
+    "type": "semantic_conflict",
+    "description": "The slides present conflicting quantitative impact metrics for Noogat's solution. Slide 1 states '2x faster' deck creation, '$2M' saved in lost productivity, and '15 mins' saved per slide. In contrast, Slide 2 claims '3x faster' deck creation speed, '$3M saved in lost productivity hours annually', and '20 mins saved per slide created'. These differing numbers constitute direct contradictions.",
+    "slides": [
+      1,
+      2
+    ],
+    "evidence": [
+      [
+        "Case Study \u2013 Noogat helps consultants make decks 2x faster using AI",
+        "Source:_______",
+        "",
+        "Impact",
+        "$2M",
+        "Context",
+        "Consultants often face challenges in creating decks efficiently due to repetitive tasks and manual data processing.\n\nThis can lead to significant time wastage and decreased productivity.",
+        "Our Approach",
+        "Noogat's AI-powered solution streamlines the deck creation process by automating data analysis, content generation, and slide design.\n\nThis enables consultants to focus on high-value tasks and deliver results faster.",
+        "15 mins",
+        "Saved in lost productivity hours",
+        "Saved per slide created"
+      ],
+      [
+        "Noogat Helps Consultants Make Decks Faster Using AI",
+        "Consultants face challenges in creating decks efficiently due to repetitive tasks.",
+        "Context",
+        "Impact",
+        "Our Approach",
+        "Key Outcomes",
+        "Noogat's AI-powered solution streamlines deck creation.",
+        "$3M saved in lost productivity hours annually",
+        "Improved overall team efficiency & reduced manual effort",
+        "This leads to significant time wastage & decreased productivity.",
+        "Automates data analysis, content generation, and slide design.",
+        "20 mins saved per slide created",
+        "Enabled focus on high-value tasks and faster delivery",
+        "Manual data processing contributes to inefficiency.",
+        "Enables consultants to focus on high-value tasks.",
+        "3x faster deck creation speed",
+        "Enhanced accuracy and consistency in presentations",
+        "High demand for fast and accurate deck creation.",
+        "Delivers results faster for clients.",
+        "Reduced resource allocation for redundant tasks",
+        "Scalable solution for growing consulting demands"
+      ]
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "I02",
+    "type": "semantic_conflict",
+    "description": "Slide 3 contains an internal contradiction: its headline states 'Noogat: 50 Hours Saved Per Consultant Monthly', but the sum of the detailed time-saving areas listed immediately below it (10 + 12 + 8 + 6 + 4 hours) totals only 40 hours per consultant monthly.",
+    "slides": [
+      1,
+      3
+    ],
+    "evidence": [
+      [
+        "Case Study \u2013 Noogat helps consultants make decks 2x faster using AI",
+        "Source:_______",
+        "",
+        "Impact",
+        "$2M",
+        "Context",
+        "Consultants often face challenges in creating decks efficiently due to repetitive tasks and manual data processing.\n\nThis can lead to significant time wastage and decreased productivity.",
+        "Our Approach",
+        "Noogat's AI-powered solution streamlines the deck creation process by automating data analysis, content generation, and slide design.\n\nThis enables consultants to focus on high-value tasks and deliver results faster.",
+        "15 mins",
+        "Saved in lost productivity hours",
+        "Saved per slide created"
+      ],
+      [
+        "Key Time-Saving Areas in Slide Creation and Formatting",
+        "Noogat: 50 Hours Saved Per Consultant Monthly",
+        "Key Area",
+        "Noogat automatically applies consistent formatting (e.g., fonts, colors, alignment) to slides, eliminating manual adjustments. This saves an estimated 10 hours per consultant monthly.",
+        "Noogat's AI-powered content generation assists in drafting new slides and populating templates, significantly reducing initial setup time. This saves an estimated 12 hours per consultant monthly.",
+        "Noogat streamlines the creation and population of complex charts and tables from raw data, ensuring accuracy and visual appeal. This saves an estimated 8 hours per consultant monthly.",
+        "Noogat optimizes slide layouts for clarity and impact, automatically arranging elements and suggesting improvements for visual hierarchy. This saves an estimated 6 hours per consultant monthly.",
+        "Noogat's automated review features identify and correct common errors, ensuring high-quality, client-ready deliverables with minimal manual checking. This saves an estimated 4 hours per consultant monthly.",
+        "Automated Formatting",
+        "Content Generation",
+        "Chart & Table Creation",
+        "Layout Optimization",
+        "Review & QA",
+        "Description"
+      ]
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "I12",
+    "type": "semantic_conflict",
+    "description": "Slide 3 presents a contradiction: its headline claims 'Noogat: 50 Hours Saved Per Consultant Monthly', but the sum of the detailed time-saving areas provided within the same slide (Automated Formatting: 10 hours + Content Generation: 12 hours + Chart & Table Creation: 8 hours + Layout Optimization: 6 hours + Review & QA: 4 hours) totals only 40 hours per consultant monthly.",
+    "slides": [
+      2,
+      3
+    ],
+    "evidence": [
+      [
+        "Noogat Helps Consultants Make Decks Faster Using AI",
+        "Consultants face challenges in creating decks efficiently due to repetitive tasks.",
+        "Context",
+        "Impact",
+        "Our Approach",
+        "Key Outcomes",
+        "Noogat's AI-powered solution streamlines deck creation.",
+        "$3M saved in lost productivity hours annually",
+        "Improved overall team efficiency & reduced manual effort",
+        "This leads to significant time wastage & decreased productivity.",
+        "Automates data analysis, content generation, and slide design.",
+        "20 mins saved per slide created",
+        "Enabled focus on high-value tasks and faster delivery",
+        "Manual data processing contributes to inefficiency.",
+        "Enables consultants to focus on high-value tasks.",
+        "3x faster deck creation speed",
+        "Enhanced accuracy and consistency in presentations",
+        "High demand for fast and accurate deck creation.",
+        "Delivers results faster for clients.",
+        "Reduced resource allocation for redundant tasks",
+        "Scalable solution for growing consulting demands"
+      ],
+      [
+        "Key Time-Saving Areas in Slide Creation and Formatting",
+        "Noogat: 50 Hours Saved Per Consultant Monthly",
+        "Key Area",
+        "Noogat automatically applies consistent formatting (e.g., fonts, colors, alignment) to slides, eliminating manual adjustments. This saves an estimated 10 hours per consultant monthly.",
+        "Noogat's AI-powered content generation assists in drafting new slides and populating templates, significantly reducing initial setup time. This saves an estimated 12 hours per consultant monthly.",
+        "Noogat streamlines the creation and population of complex charts and tables from raw data, ensuring accuracy and visual appeal. This saves an estimated 8 hours per consultant monthly.",
+        "Noogat optimizes slide layouts for clarity and impact, automatically arranging elements and suggesting improvements for visual hierarchy. This saves an estimated 6 hours per consultant monthly.",
+        "Noogat's automated review features identify and correct common errors, ensuring high-quality, client-ready deliverables with minimal manual checking. This saves an estimated 4 hours per consultant monthly.",
+        "Automated Formatting",
+        "Content Generation",
+        "Chart & Table Creation",
+        "Layout Optimization",
+        "Review & QA",
+        "Description"
+      ]
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "I23",
+    "type": "semantic_conflict",
+    "description": "Slide 3 states 'Noogat: 50 Hours Saved Per Consultant Monthly' at the top. However, the sum of the individual time-saving areas detailed for Noogat in Slide 3 (Automated Formatting: 10 hours, Content Generation: 12 hours, Chart & Table Creation: 8 hours, Layout Optimization: 6 hours, Review & QA: 4 hours) totals only 40 hours (10 + 12 + 8 + 6 + 4 = 40). This creates a direct contradiction within Slide 3 itself regarding Noogat's total monthly time savings. While the individual category hours shared between Slide 3 (first three categories) and Slide 4 for Noogat are consistent (10, 12, 8 hours), the overall total presented in Slide 3 contradicts its own detailed breakdown.",
+    "slides": [
+      3,
+      4
+    ],
+    "evidence": [
+      [
+        "Key Time-Saving Areas in Slide Creation and Formatting",
+        "Noogat: 50 Hours Saved Per Consultant Monthly",
+        "Key Area",
+        "Noogat automatically applies consistent formatting (e.g., fonts, colors, alignment) to slides, eliminating manual adjustments. This saves an estimated 10 hours per consultant monthly.",
+        "Noogat's AI-powered content generation assists in drafting new slides and populating templates, significantly reducing initial setup time. This saves an estimated 12 hours per consultant monthly.",
+        "Noogat streamlines the creation and population of complex charts and tables from raw data, ensuring accuracy and visual appeal. This saves an estimated 8 hours per consultant monthly.",
+        "Noogat optimizes slide layouts for clarity and impact, automatically arranging elements and suggesting improvements for visual hierarchy. This saves an estimated 6 hours per consultant monthly.",
+        "Noogat's automated review features identify and correct common errors, ensuring high-quality, client-ready deliverables with minimal manual checking. This saves an estimated 4 hours per consultant monthly.",
+        "Automated Formatting",
+        "Content Generation",
+        "Chart & Table Creation",
+        "Layout Optimization",
+        "Review & QA",
+        "Description"
+      ],
+      [
+        "Noogat delivers significant monthly time savings: 10 hours from automated formatting, 12 hours from AI-powered content generation, and 8 hours from streamlined chart and table creation.",
+        "Copilot offers moderate monthly time savings: 2 hours from basic formatting, 3 hours from content generation, and 1 hour from limited chart/table support.",
+        "Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content generation, and 0.5 hours from very basic chart/table creation.",
+        "Noogat",
+        "Noogat outperforms competitors by delivering significant monthly time savings per consultant",
+        "Noogat: Superior Time Savings in Slide Creation",
+        "Copilot",
+        "Gamma",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "I24",
+    "type": "semantic_conflict",
+    "description": "Slide 3 states 'Noogat: 50 Hours Saved Per Consultant Monthly', but the sum of the detailed time savings listed in the same slide (10 hours for Automated Formatting + 12 hours for Content Generation + 8 hours for Chart & Table Creation + 6 hours for Layout Optimization + 4 hours for Review & QA) totals only 40 hours. This creates a contradiction within Slide 3 itself regarding the claimed total time savings.",
+    "slides": [
+      3,
+      5
+    ],
+    "evidence": [
+      [
+        "Key Time-Saving Areas in Slide Creation and Formatting",
+        "Noogat: 50 Hours Saved Per Consultant Monthly",
+        "Key Area",
+        "Noogat automatically applies consistent formatting (e.g., fonts, colors, alignment) to slides, eliminating manual adjustments. This saves an estimated 10 hours per consultant monthly.",
+        "Noogat's AI-powered content generation assists in drafting new slides and populating templates, significantly reducing initial setup time. This saves an estimated 12 hours per consultant monthly.",
+        "Noogat streamlines the creation and population of complex charts and tables from raw data, ensuring accuracy and visual appeal. This saves an estimated 8 hours per consultant monthly.",
+        "Noogat optimizes slide layouts for clarity and impact, automatically arranging elements and suggesting improvements for visual hierarchy. This saves an estimated 6 hours per consultant monthly.",
+        "Noogat's automated review features identify and correct common errors, ensuring high-quality, client-ready deliverables with minimal manual checking. This saves an estimated 4 hours per consultant monthly.",
+        "Automated Formatting",
+        "Content Generation",
+        "Chart & Table Creation",
+        "Layout Optimization",
+        "Review & QA",
+        "Description"
+      ],
+      [
+        "Noogat significantly outperforms competitors in slide creation efficiency.",
+        "Monthly Time Savings Per Consultant (Hours)",
+        "",
+        "Key Insights: Noogat's Impact",
+        "Noogat delivers superior time savings across all slide creation phases, from automated formatting to AI-powered content generation and streamlined chart/table creation, ensuring high-quality, efficient output.",
+        "Comparative Time Savings Analysis",
+        "Hours Saved Per Consultant",
+        "Source:_______"
+      ]
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "I35",
+    "type": "semantic_conflict",
+    "description": "Slide 4 explicitly states that Copilot offers 'moderate monthly time savings' (6 hours) while Gamma provides 'minimal monthly time savings' (3.5 hours), indicating Copilot saves more time than Gamma. However, Slide 6 highlights 'Key Limitations of Copilot Compared to Gamma's Superior Slide Capabilities,' detailing how Copilot's issues (e.g., 'less visually appealing or misaligned slide layouts requiring significant manual adjustments, leading to increased design time') are overcome by Gamma's superior features (e.g., 'superior comprehension,' 'seamless integration,' 'more robust customization'). These superior capabilities in Slide 6 imply that Gamma would lead to greater efficiency and less time spent on corrections or manual work compared to Copilot, which directly contradicts Slide 4's quantitative claim that Copilot saves more time than Gamma.",
+    "slides": [
+      4,
+      6
+    ],
+    "evidence": [
+      [
+        "Noogat delivers significant monthly time savings: 10 hours from automated formatting, 12 hours from AI-powered content generation, and 8 hours from streamlined chart and table creation.",
+        "Copilot offers moderate monthly time savings: 2 hours from basic formatting, 3 hours from content generation, and 1 hour from limited chart/table support.",
+        "Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content generation, and 0.5 hours from very basic chart/table creation.",
+        "Noogat",
+        "Noogat outperforms competitors by delivering significant monthly time savings per consultant",
+        "Noogat: Superior Time Savings in Slide Creation",
+        "Copilot",
+        "Gamma",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Key Limitations of Copilot Compared to Gamma's Superior Slide Capabilities",
+        "Copilot vs. Gamma: Slide Creation Discrepancies",
+        "Visual Design & Layout",
+        "Copilot often generates less visually appealing or misaligned slide layouts requiring significant manual adjustments, leading to increased design time and inconsistency.",
+        "Content Coherence",
+        "Gamma demonstrates superior comprehension of complex presentation contexts and existing slide content, resulting in more relevant and integrated suggestions.",
+        "Export & Sharing Options",
+        "Gamma offers seamless integration with a broader range of presentation tools and platforms, enhancing workflow efficiency and reducing friction.",
+        "Template & Branding Adherence",
+        "Gamma provides more robust customization options, allowing users to fine-tune its behavior and adapt to specific brand guidelines and template requirements more effectively."
+      ]
+    ],
+    "confidence": 0.8
+  }
+]
